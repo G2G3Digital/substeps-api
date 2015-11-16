@@ -1,7 +1,7 @@
 [DEPRECATED] substeps-api [![Build Status](https://travis-ci.org/G2G3Digital/substeps-api.svg)](https://travis-ci.org/G2G3Digital/substeps-api)
 ============
 
-The substeps-api repository has been merged into one with other core Substep libraries.
+The substeps-api repository has been merged into one with other core Substep libraries. No more pull requests on the repository will be accepted.
 
 So the new home is [substeps-framework](https://github.com/G2G3Digital/substeps-framework) which now contains:
  * substeps-api
